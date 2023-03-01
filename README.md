@@ -17,7 +17,6 @@
 ***
 
 > `Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.`
-
 > [Google](https://www.google.com).
 <https://www.google.com>
 
